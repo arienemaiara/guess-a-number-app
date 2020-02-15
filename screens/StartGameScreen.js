@@ -10,10 +10,10 @@ import {
  } from 'react-native';
 
 import Card from '../components/Card';
-import Input from '../components/Input'
+import Input from '../components/Input';
 
-import colors from '../constants/colors'
-import defaultStyles from '../constants/default-styles'
+import colors from '../constants/colors';
+import defaultStyles from '../constants/default-styles';
 import NumberContainer from '../components/NumberContainer';
 
 const StartGameScreen = props => {
